@@ -1,0 +1,74 @@
+{
+  "orders": [
+    {
+      "user": "erste@eloaded.eu",
+      "date": "2022-01-01T00:00:00.000Z",
+      "price": 12
+    },
+    {
+      "user": "zweite@eloaded.eu",
+      "date": "2022-02-01T00:00:00.000Z",
+      "price": 234
+    },
+    {
+      "user": "dritte@eloaded.eu",
+      "date": "2021-01-01T00:00:00.000Z",
+      "price": 567
+    },
+    {
+      "user": "vierte@eloaded.eu",
+      "date": "2022-08-12T00:00:00.000Z",
+      "price": 354
+    },
+    {
+      "user": "zweite@eloaded.eu",
+      "date": "2022-01-25T00:00:00.000Z",
+      "price": 146
+    },
+    {
+      "user": "sechste@eloaded.eu",
+      "date": "2021-12-01T00:00:00.000Z",
+      "price": 31789
+    },
+    {
+      "user": "erste@eloaded.eu",
+      "date": "2022-09-15T00:00:00.000Z",
+      "price": 7468
+    },
+    {
+      "user": "fuenfte@eloaded.eu",
+      "date": "2022-03-01T00:00:00.000Z",
+      "price": 23
+    },
+    {
+      "user": "dritte@eloaded.eu",
+      "date": "2022-07-01T00:00:00.000Z",
+      "price": 0
+    },
+    {
+      "user": "erste@eloaded.eu",
+      "date": "2020-01-01T00:00:00.000Z",
+      "price": 74568
+    },
+    {
+      "user": "zweite@eloaded.eu",
+      "date": "2019-01-01T00:00:00.000Z",
+      "price": 234
+    },
+    {
+      "user": "dritte@eloaded.eu",
+      "date": "2022-01-02T00:00:00.000Z",
+      "price": 783
+    },
+    {
+      "user": "erste@eloaded.eu",
+      "date": "2022-02-01T00:00:00.000Z",
+      "price": 498
+    },
+    {
+      "user": "fuenfte@eloaded.eu",
+      "date": "2020-01-01T00:00:00.000Z",
+      "price": 20
+    }
+  ]
+}
