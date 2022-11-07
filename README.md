@@ -7,16 +7,16 @@ Exercise 1.
   - data: Object (see data.json)
   - Calculate how many orders the input user has.
   
-  # output: 4
+ ** output: 4
 
 Exercise 2.
 
   - Find the oldest order of the input user.
   
- # output: {"user":"erste@eloaded.eu", "date":"2020-01-01T00:00:00.000Z", "price":74568}
+ ** output: {"user":"erste@eloaded.eu", "date":"2020-01-01T00:00:00.000Z", "price":74568}
 
 Exercise 3.
 
   - Sort all the orders from newest to oldest of the input user.
   
- # output: [{ user: "erste@eloaded.eu", ...}, {...}, ...]
+ ** output: [{ user: "erste@eloaded.eu", ...}, {...}, ...]
